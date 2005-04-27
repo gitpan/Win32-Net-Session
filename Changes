@@ -1,0 +1,6 @@
+Revision history for Perl extension Win32::Net::Session.
+
+0.01  Mon Apr  4 13:51:48 2005
+	- original version; created by h2xs 1.21 with options
+		-n Win32::Net::Session -x
+
