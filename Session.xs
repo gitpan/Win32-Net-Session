@@ -311,7 +311,6 @@ GetSessionInfos(servername, clientname, username, level, readed, perror)
 		char* clientname
 		char* username
 		int level
-		int argc
 		SV* readed
 		SV* perror
 	PREINIT:

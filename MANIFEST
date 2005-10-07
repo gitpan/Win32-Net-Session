@@ -5,3 +5,4 @@ README
 Session.pm
 Session.xs
 test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
